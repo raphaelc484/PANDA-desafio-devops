@@ -1,10 +1,10 @@
-# P.A.N.D.A - Configuração de Infraestrutura Multi-Ambiente - AWS - IaC
+# P.A.N.D.A
 
-P - Provisioning
-A - Automated
-N - Network
-D - Deployment
-A - Across environments
+P - Provisioning<br> 
+A - Automated<br> 
+N - Network<br>
+D - Deployment<br>
+A - Across environments<br>
 
 # Configuração de Infraestrutura Multi-Ambiente - AWS - IaC
 
